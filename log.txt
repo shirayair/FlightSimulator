@@ -1,0 +1,227 @@
+commit c442cea6620cbcc44bc71c622cd5746190a34bb0
+Author: Osnat Ackerman <osnatackerman0376@gmail.com>
+Date:   Mon Apr 22 20:29:19 2019 +0300
+
+    doneeeeeee!!!!!!!!
+
+commit 1e6d36290c396f694cb76a62b7db6f490fac3913
+Author: Osnat Ackerman <osnatackerman0376@gmail.com>
+Date:   Mon Apr 22 18:48:25 2019 +0300
+
+    allmost
+
+commit 30197c379dd9f809ad6eb1d5e27e1af114205668
+Author: shirayair <shira.yair@live.biu.ac.il>
+Date:   Mon Apr 22 17:19:53 2019 +0300
+
+    server
+
+commit 7cc75a3372945c8e51a237de7eb0fd9481998136
+Merge: 73a572e 2f31b76
+Author: shirayair <shira.yair@live.biu.ac.il>
+Date:   Mon Apr 22 17:16:22 2019 +0300
+
+    dxd
+
+commit 73a572e69dd34d7db5e1c2300a30f54ac65978bc
+Author: shirayair <shira.yair@live.biu.ac.il>
+Date:   Mon Apr 22 17:13:25 2019 +0300
+
+    jbfmbxmjbvmjd
+
+commit fd21b463d7f732829ae905e360ba48cf288307ad
+Author: shirayair <shira.yair@live.biu.ac.il>
+Date:   Mon Apr 22 17:12:53 2019 +0300
+
+    server
+
+commit 25bebde372c12a588216bc914827c755a196ca94
+Author: shirayair <shira.yair@live.biu.ac.il>
+Date:   Mon Apr 22 17:11:27 2019 +0300
+
+    server
+
+commit 2f31b763c4d0258e2b056d0e7fa3fd2668457793
+Author: Osnat Ackerman <osnatackerman0376@gmail.com>
+Date:   Mon Apr 22 17:11:19 2019 +0300
+
+    shira karzia
+
+commit ecfee6d04dc5453784d7c37fe68a81aa395236db
+Author: shirayair <shira.yair@live.biu.ac.il>
+Date:   Mon Apr 22 16:55:42 2019 +0300
+
+    kk
+
+commit b24a41be6b4f0b34f4a4168baef0afdb03c863fd
+Merge: 0a00c82 499caa9
+Author: shirayair <shira.yair@live.biu.ac.il>
+Date:   Mon Apr 22 16:54:54 2019 +0300
+
+    Merge branch 'master' of https://github.com/OsnatAckerman/FlightSimulator
+
+commit 0a00c82df360a621906ec23d292957ff38da3d90
+Author: shirayair <shira.yair@live.biu.ac.il>
+Date:   Mon Apr 22 16:54:26 2019 +0300
+
+    mjv
+
+commit 499caa911d36da1a7ea89166b9ef0b7a97a5f16b
+Author: Osnat Ackerman <osnatackerman0376@gmail.com>
+Date:   Mon Apr 22 16:53:40 2019 +0300
+
+    fake commit
+
+commit 881b04de69497d55d2d17ba8318b2d08ab7cb07d
+Author: shirayair <shira.yair@live.biu.ac.il>
+Date:   Mon Apr 22 16:52:46 2019 +0300
+
+    ie
+
+commit af74d223c27ebe7f5b2d604fccb7d9c328a4d768
+Author: Osnat Ackerman <osnatackerman0376@gmail.com>
+Date:   Sun Apr 21 22:20:27 2019 +0300
+
+    knob
+
+commit 29193c140390fcc587293e0762885c947c6ec078
+Author: Osnat Ackerman <osnatackerman0376@gmail.com>
+Date:   Sun Apr 21 19:49:48 2019 +0300
+
+    try
+
+commit 2c6d02f1c84b393655c91bd6cb67ffaa87027c9a
+Merge: 028d1fa 99227f7
+Author: Osnat Ackerman <osnatackerman0376@gmail.com>
+Date:   Sun Apr 21 19:30:04 2019 +0300
+
+    Merge branch 'master' of https://github.com/OsnatAckerman/FlightSimulator
+
+commit 028d1fab2150bae6ef171b247cb50530555a996d
+Author: Osnat Ackerman <osnatackerman0376@gmail.com>
+Date:   Sun Apr 21 19:27:46 2019 +0300
+
+    try to connect
+
+commit 99227f7dd9d87a3fb86085e86efe83b1ed38919c
+Author: shirayair <shira.yair@live.biu.ac.il>
+Date:   Sun Apr 21 18:06:10 2019 +0300
+
+    joystick bindings
+
+commit cb6125b7e74a5a8feacc623b24ddfa71b177b721
+Merge: d02fd8c 63e4fa7
+Author: shirayair <shira.yair@live.biu.ac.il>
+Date:   Sun Apr 21 14:54:40 2019 +0300
+
+    Merge branch 'master' of https://github.com/OsnatAckerman/FlightSimulator
+
+commit d02fd8ccac612aae53d7de7889f5141394678d84
+Author: shirayair <shira.yair@live.biu.ac.il>
+Date:   Sun Apr 21 14:54:30 2019 +0300
+
+    jh
+
+commit 63e4fa7737cc6fb25d23ee4540dff2b9939f19ec
+Author: Osnat Ackerman <osnatackerman0376@gmail.com>
+Date:   Sun Apr 21 14:53:50 2019 +0300
+
+    connect ready
+
+commit 53e3abafb0651096ae11b4d4c1c31adff1a8aa8c
+Merge: 71aca5f 177e987
+Author: shirayair <shira.yair@live.biu.ac.il>
+Date:   Sun Apr 21 14:35:29 2019 +0300
+
+    Merge branch 'master' of https://github.com/OsnatAckerman/FlightSimulator
+
+commit 71aca5ff1575256cb25ba6670b7359cac1439181
+Merge: 159a168 8fd4616
+Author: shirayair <shira.yair@live.biu.ac.il>
+Date:   Sun Apr 21 14:35:16 2019 +0300
+
+    commit
+
+commit 177e987c28d2ca706c03930a9d27faeee628818d
+Author: Osnat Ackerman <osnatackerman0376@gmail.com>
+Date:   Sun Apr 21 14:34:31 2019 +0300
+
+    the start of connect
+
+commit 159a16835a6f9f2dc14bb0411e66467ba47ebdea
+Author: shirayair <shira.yair@live.biu.ac.il>
+Date:   Sun Apr 21 12:19:27 2019 +0300
+
+    vnh
+
+commit 8fd4616a408a89d436eb5e62b0d93351334f5ee5
+Author: Osnat Ackerman <osnatackerman0376@gmail.com>
+Date:   Sun Apr 21 12:02:54 2019 +0300
+
+    manual view
+
+commit 2fd50d2409d3f634735beef00a0a553d3c5da415
+Author: Osnat Ackerman <osnatackerman0376@gmail.com>
+Date:   Wed Apr 17 12:56:04 2019 +0300
+
+    AutoMAnual changes not so goot
+
+commit 94d01e344a920e3aaa917b4f4669e1c9cb747d06
+Author: Osnat Ackerman <osnatackerman0376@gmail.com>
+Date:   Tue Apr 16 22:57:15 2019 +0300
+
+    AutoPilot
+
+commit b09680ef9b851077abe3ab3cef4a50f299db8383
+Author: Osnat Ackerman <osnatackerman0376@gmail.com>
+Date:   Tue Apr 16 20:42:18 2019 +0300
+
+    set OK Cancel button
+
+commit a72455d39413f47c8b04d2bb7a3cbaa6771e9cd1
+Author: Osnat Ackerman <osnatackerman0376@gmail.com>
+Date:   Tue Apr 16 18:39:41 2019 +0300
+
+    Collabrator check
+
+commit c2ab6728efed9bca1637043bdd9ebb16f9346b6d
+Author: Osnat Ackerman <osnatackerman0376@gmail.com>
+Date:   Tue Apr 16 18:37:44 2019 +0300
+
+    Settings binding and design
+
+commit 07d050cf54699147b98aca1c0c311ec027b82a87
+Author: Osnat Ackerman <osnatackerman0376@gmail.com>
+Date:   Tue Apr 16 13:41:07 2019 +0300
+
+    SETTINGS AND CONNECT BUTTONS_1
+
+commit 435c2a7d10ceb5b06434b31d423bbfc6d6483cc5
+Author: Osnat Ackerman <osnatackerman0376@gmail.com>
+Date:   Mon Apr 15 16:14:08 2019 +0300
+
+    cacel try
+
+commit 89c06c5e989ebbe31a7f1f236a47237b1758591f
+Author: Osnat Ackerman <osnatackerman0376@gmail.com>
+Date:   Mon Apr 15 16:10:57 2019 +0300
+
+    test
+
+commit 2bfbfd46725985a60f4c0c708cdab458c04446e8
+Author: Osnat Ackerman <osnatackerman0376@gmail.com>
+Date:   Mon Apr 15 15:20:02 2019 +0300
+
+    first
+
+commit 5a8bcad45a03dfa8aa17c12d941750d8b30c932a
+Author: Osnat Ackerman <osnatackerman0376@gmail.com>
+Date:   Mon Apr 15 15:19:15 2019 +0300
+
+    Add project files.
+
+commit 75dd0c32a7af0b09f3fdc4b63d008cba46dde6f0
+Author: Osnat Ackerman <osnatackerman0376@gmail.com>
+Date:   Mon Apr 15 15:19:12 2019 +0300
+
+    Add .gitignore and .gitattributes.
